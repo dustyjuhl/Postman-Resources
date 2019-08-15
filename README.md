@@ -1,2 +1,2 @@
 # Postman Resources
-![Runscope banner](img/Runscope_banner_250x250_001.jpg)
+![Runscope banner](img/Runscope-banner-250x250-001.png)
