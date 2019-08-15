@@ -6,7 +6,6 @@
 
 ## Postman Learning Center
 - [Postman Sandbox API reference](https://learning.getpostman.com/docs/postman/scripts/postman_sandbox_api_reference)
-[RESTful Booker](http://resful-booker.herokuapp.com)
 
 ## Public APIs
 
