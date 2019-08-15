@@ -9,6 +9,11 @@
 
 ## Public APIs
 
+## Repos
+- [All Things Postman](https://github.com/DannyDainton/All-Things-Postman)
+- [Explore with Postman](https://github.com/ambertests/explore-with-postman)
+- [Tracks Rest API Case Study](https://github.com/eviltester/tracksrestcasestudy)
+
 ## Restful-booker
 - [Website](https://restful-booker.herokuapp.com/)
 - [Code](https://github.com/mwinteringham/restful-booker)
