@@ -1,5 +1,5 @@
 # Postman Resources
-![Postman Logo](https://github.com/DannyDainton/All-Things-Postman/blob/master/Public/images/_README/Postman_Logo.PNG)
+![Postman Logo](img/Postman_Logo.png)
 
 ## Postman Download
 - [Get Postman](https://www.getpostman.com/apps)
