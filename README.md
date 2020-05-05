@@ -22,6 +22,7 @@
 - [Spotify API](https://developer.spotify.com/documentation/web-api/)
 - [Twitter API](https://developer.twitter.com/en.html)
 - [World Time API](http://worldtimeapi.org/)
+- [Zippopotamus](http://api.zippopotam.us/)
 - [Zomato API](https://developers.zomato.com/api)
 
 ## Repos
