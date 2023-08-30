@@ -13,12 +13,10 @@
 - [Postman Sandbox API reference](https://learning.getpostman.com/docs/postman/scripts/postman_sandbox_api_reference)
 
 ## [Public APIs](https://github.com/public-apis/public-apis)
-- [Astronomy Picture of the Day](https://api.nasa.gov/api.html#apod)
 - [Google Earth](https://developers.google.com/earth-engine/)
 - [Google Maps](https://developers.google.com/maps/documentation/)
 - [math.js](https://api.mathjs.org/)
-- [NASA APIs](https://api.nasa.gov/index.html)
-- [Near Earth Object Web Service](https://api.nasa.gov/api.html#neows-feed)
+- [NASA APIs](https://api.nasa.gov/)
 - [OpenTable API](https://opentable.herokuapp.com/)
 - [OpenWeatherMap API](https://openweathermap.org/api)
 - [Spotify API](https://developer.spotify.com/documentation/web-api/)
