@@ -2,10 +2,12 @@
 ![Postman Logo](img/Postman_Logo.png)
 
 ## Postman Download
-- [Get Postman](https://www.getpostman.com/apps)
+- [Download Postman](https://www.postman.com/downloads/)
 
 ## Postman Experts
+- [Amber Race](https://github.com/ambertests)
 - [Danny Dainton](https://github.com/DannyDainton)
+- [Dave Westerveld](https://github.com/djwester)
 
 ## Postman Learning Center
 - [Postman Sandbox API reference](https://learning.getpostman.com/docs/postman/scripts/postman_sandbox_api_reference)
@@ -29,6 +31,8 @@
 - [All Things Postman](https://github.com/DannyDainton/All-Things-Postman)
 - [Explore with Postman](https://github.com/ambertests/explore-with-postman)
 - [Tracks Rest API Case Study](https://github.com/eviltester/tracksrestcasestudy)
+- [API Testing Foundations](https://github.com/djwester/api-testing-foundations)
+- [API Testing Challenges](https://github.com/djwester/api-testing-challenges)
 
 ## Restful-booker
 - [Website](https://restful-booker.herokuapp.com/)
