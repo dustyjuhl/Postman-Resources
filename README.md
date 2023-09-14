@@ -12,6 +12,15 @@
 ## Postman Learning Center
 - [Postman Sandbox API reference](https://learning.getpostman.com/docs/postman/scripts/postman_sandbox_api_reference)
 
+## Postman Courses
+- [Exploring Service APIs through Test Automation](https://testautomationu.applitools.com/exploring-service-apis-through-test-automation/)
+- [API Test Automation with Postman](https://testautomationu.applitools.com/postman-tutorial/)
+- [Postman API Tutorial - How to Use Postman to Test an API](https://www.freecodecamp.org/news/learn-how-to-use-postman-to-test-apis/)
+- [New to Postman playlist](youtube.com/playlist?list=PLM-7VG-sgbtBsenu0CM-UF3NZj3hQFs7E)
+- [Intro to API Testing with Postman](https://youtu.be/sA1NDx7j1do?si=LtABjkhT4WXHX8d4)
+- [API Testing with Postman](https://youtu.be/AgswTXgFk_M?si=t_81xubFLAzA995n)
+- [API Automation and Testing using Python](https://youtu.be/lY5JEb4C0Ek?si=MfS-RMTAHvtGR7A6)
+
 ## [Public APIs](https://github.com/public-apis/public-apis)
 - [Google Earth](https://developers.google.com/earth-engine/)
 - [Google Maps](https://developers.google.com/maps/documentation/)
