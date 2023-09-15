@@ -38,10 +38,10 @@
 
 ## Repos
 - [All Things Postman](https://github.com/DannyDainton/All-Things-Postman)
-- [Explore with Postman](https://github.com/ambertests/explore-with-postman)
-- [Tracks Rest API Case Study](https://github.com/eviltester/tracksrestcasestudy)
 - [API Testing Foundations](https://github.com/djwester/api-testing-foundations)
 - [API Testing Challenges](https://github.com/djwester/api-testing-challenges)
+- [Explore with Postman](https://github.com/ambertests/explore-with-postman)
+- [Tracks Rest API Case Study](https://github.com/eviltester/tracksrestcasestudy)
 
 ## Restful-booker
 - [API Docs](https://restful-booker.herokuapp.com/apidoc/index.html)
