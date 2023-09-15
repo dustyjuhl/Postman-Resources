@@ -44,8 +44,8 @@
 - [API Testing Challenges](https://github.com/djwester/api-testing-challenges)
 
 ## Restful-booker
-- [Website](https://restful-booker.herokuapp.com/)
-- [Code](https://github.com/mwinteringham/restful-booker)
 - [API Docs](https://restful-booker.herokuapp.com/apidoc/index.html)
+- [Code](https://github.com/mwinteringham/restful-booker)
+- [Website](https://restful-booker.herokuapp.com/)
 
 ![Runscope banner](img/Runscope-banner-250x250-001.png)
