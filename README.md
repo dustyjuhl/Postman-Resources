@@ -20,6 +20,7 @@
 - [Intro to API Testing with Postman](https://youtu.be/sA1NDx7j1do?si=LtABjkhT4WXHX8d4)
 - [API Testing with Postman](https://youtu.be/AgswTXgFk_M?si=t_81xubFLAzA995n)
 - [API Automation and Testing using Python](https://youtu.be/lY5JEb4C0Ek?si=MfS-RMTAHvtGR7A6)
+- [Azure REST APIs with Postman](https://blog.jongallant.com/2021/02/azure-rest-apis-postman-2021/)
 
 ## [Public APIs](https://github.com/public-apis/public-apis)
 - [Google Earth](https://developers.google.com/earth-engine/)
