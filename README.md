@@ -31,6 +31,7 @@
 - [NASA APIs](https://api.nasa.gov/)
 - [OpenTable API](https://opentable.herokuapp.com/)
 - [OpenWeatherMap API](https://openweathermap.org/api)
+- [Rapid API Hub - Discover and connect to thousands of APIs](https://rapidapi.com/hub)
 - [Spotify API](https://developer.spotify.com/documentation/web-api/)
 - [Star Wars API](https://swapi.dev/)
 - [Twitter API](https://developer.twitter.com/en.html)
