@@ -29,7 +29,7 @@
 - [Marvel API](https://developer.marvel.com/)
 - [math.js](https://api.mathjs.org/)
 - [NASA APIs](https://api.nasa.gov/)
-- [OpenTable API](https://opentable.herokuapp.com/)
+- [OpenTable API](https://dev.opentable.com/partner-portal)
 - [OpenWeatherMap API](https://openweathermap.org/api)
 - [Rapid API Hub - Discover and connect to thousands of APIs](https://rapidapi.com/hub)
 - [Spotify API - Retrieve metadata from Spotify content, control playback or get recommendations](https://developer.spotify.com/documentation/web-api/)
