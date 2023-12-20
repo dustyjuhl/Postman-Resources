@@ -27,7 +27,7 @@
 - [Google Earth - Perform geospatial processing powered by Google's cloud infrastructure](https://developers.google.com/earth-engine/)
 - [Google Maps](https://developers.google.com/maps/documentation/)
 - [Marvel API](https://developer.marvel.com/)
-- [math.js](https://api.mathjs.org/)
+- [math.js - An extensive math library for JavaScript and Node.js](https://api.mathjs.org/)
 - [NASA APIs](https://api.nasa.gov/)
 - [OpenTable API - Plug into OpenTable's global community](https://dev.opentable.com/partner-portal)
 - [OpenWeatherMap API - Current & Forecast weather data collection](https://openweathermap.org/api)
