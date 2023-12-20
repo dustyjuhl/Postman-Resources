@@ -25,7 +25,7 @@
 ## [Public APIs](https://github.com/public-apis/public-apis)
 - [ADS-B Exchange - World's largest source of unfiltered flight data](https://www.adsbexchange.com/data/rest-api-samples/)
 - [Google Earth - Perform geospatial processing powered by Google's cloud infrastructure](https://developers.google.com/earth-engine/)
-- [Google Maps](https://developers.google.com/maps/documentation/)
+- [Google Maps - Google Maps Platform SDKs and APIs for Maps, Routes, and Places](https://developers.google.com/maps/documentation/)
 - [Marvel API - Access information about Marvel's vast library of comics](https://developer.marvel.com/)
 - [math.js - An extensive math library for JavaScript and Node.js](https://api.mathjs.org/)
 - [NASA APIs](https://api.nasa.gov/)
