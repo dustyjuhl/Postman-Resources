@@ -37,7 +37,6 @@
 - [Twitter API](https://developer.twitter.com/en.html)
 - [World Time API](http://worldtimeapi.org/)
 - [Zippopotamus](http://api.zippopotam.us/)
-- [Zomato API](https://developers.zomato.com/api)
 
 ## Repos
 - [All Things Postman](https://github.com/DannyDainton/All-Things-Postman)
