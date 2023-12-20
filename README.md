@@ -36,7 +36,7 @@
 - [Star Wars API](https://swapi.dev/)
 - [Twitter API](https://developer.twitter.com/en.html)
 - [World Time API](http://worldtimeapi.org/)
-- [Zippopotamus](http://api.zippopotam.us/)
+- [Zippopotamus - Postal Codes and Zip Codes made easy](http://api.zippopotam.us/)
 
 ## Repos
 - [All Things Postman](https://github.com/DannyDainton/All-Things-Postman)
