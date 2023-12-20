@@ -35,7 +35,7 @@
 - [Spotify API](https://developer.spotify.com/documentation/web-api/)
 - [Star Wars API](https://swapi.dev/)
 - [Twitter API](https://developer.twitter.com/en.html)
-- [World Time API](http://worldtimeapi.org/)
+- [World Time API - A simple web service that returns the current local time for a given timezone](http://worldtimeapi.org/)
 - [Zippopotamus - Postal Codes and Zip Codes made easy](http://api.zippopotam.us/)
 
 ## Repos
