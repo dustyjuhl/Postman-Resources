@@ -30,7 +30,7 @@
 - [math.js](https://api.mathjs.org/)
 - [NASA APIs](https://api.nasa.gov/)
 - [OpenTable API - Plug into OpenTable's global community](https://dev.opentable.com/partner-portal)
-- [OpenWeatherMap API](https://openweathermap.org/api)
+- [OpenWeatherMap API - Current & Forecast weather data collection](https://openweathermap.org/api)
 - [Rapid API Hub - Discover and connect to thousands of APIs](https://rapidapi.com/hub)
 - [Spotify API - Retrieve metadata from Spotify content, control playback or get recommendations](https://developer.spotify.com/documentation/web-api/)
 - [Star Wars API - All the Star Wars data you've ever wanted](https://swapi.dev/)
