@@ -23,7 +23,7 @@
 - [Azure REST APIs with Postman](https://blog.jongallant.com/2021/02/azure-rest-apis-postman-2021/)
 
 ## [Public APIs](https://github.com/public-apis/public-apis)
-- [ADS-B Exchange](https://www.adsbexchange.com/data/rest-api-samples/)
+- [ADS-B Exchange - World's largest source of unfiltered flight data](https://www.adsbexchange.com/data/rest-api-samples/)
 - [Google Earth](https://developers.google.com/earth-engine/)
 - [Google Maps](https://developers.google.com/maps/documentation/)
 - [Marvel API](https://developer.marvel.com/)
