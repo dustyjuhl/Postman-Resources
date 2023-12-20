@@ -26,7 +26,7 @@
 - [ADS-B Exchange - World's largest source of unfiltered flight data](https://www.adsbexchange.com/data/rest-api-samples/)
 - [Google Earth - Perform geospatial processing powered by Google's cloud infrastructure](https://developers.google.com/earth-engine/)
 - [Google Maps](https://developers.google.com/maps/documentation/)
-- [Marvel API](https://developer.marvel.com/)
+- [Marvel API - Access information about Marvel's vast library of comics](https://developer.marvel.com/)
 - [math.js - An extensive math library for JavaScript and Node.js](https://api.mathjs.org/)
 - [NASA APIs](https://api.nasa.gov/)
 - [OpenTable API - Plug into OpenTable's global community](https://dev.opentable.com/partner-portal)
