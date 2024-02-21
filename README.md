@@ -6,6 +6,7 @@
 
 ## Postman Experts
 - [Amber Race](https://github.com/ambertests)
+- [Beth Marshall](https://github.com/askherconsulting)
 - [Danny Dainton](https://github.com/DannyDainton)
 - [Dave Westerveld](https://github.com/djwester)
 
